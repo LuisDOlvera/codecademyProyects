@@ -1,0 +1,51 @@
+pre {
+    height: 80px;
+    width: 120px;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+    background-color: palegreen;
+    border-width: 5px;
+    box-sizing: border-box;
+}
+
+/* border-style example classes */
+.b1 {
+    border-style: none;
+}
+
+.b2 {
+    border-style: hidden;
+}
+
+.b3 {
+    border-style: dotted;
+}
+
+.b4 {
+    border-style: dashed;
+}
+
+.b5 {
+    border-style: solid;
+}
+
+.b6 {
+    border-style: double;
+}
+
+.b7 {
+    border-style: groove;
+}
+
+.b8 {
+    border-style: ridge;
+}
+
+.b9 {
+    border-style: inset;
+}
+
+.b10 {
+    border-style: outset;
+}
